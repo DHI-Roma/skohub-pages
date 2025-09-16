@@ -1,34 +1,20 @@
 {
-  "id": "https://g17.dhi-roma.it/resources/type_1295",
+  "id": "https://g17.dhi-roma.it/resources/type_753",
   "type": "Concept",
   "prefLabel": {
-    "en": "Place Types"
+    "en": "custom sub-region"
   },
-  "narrower": [
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_752",
-      "prefLabel": {
-        "en": "custom region"
-      }
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_753",
-      "prefLabel": {
-        "en": "custom sub-region"
-      }
-    }
-  ],
+  "note": {
+    "en": [
+      "A smaller, specific division within a custom region, also defined according to particular administrative, geographical, or ecclesiastical requirements."
+    ]
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://g17.dhi-roma.it/resources/"
-    }
-  ],
-  "topConceptOf": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
     }

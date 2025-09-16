@@ -4,6 +4,20 @@
   "prefLabel": {
     "en": "Place Types"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_752",
+      "prefLabel": {
+        "en": "custom region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_753",
+      "prefLabel": {
+        "en": "custom sub-region"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
