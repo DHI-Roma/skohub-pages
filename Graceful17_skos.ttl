@@ -2728,20 +2728,20 @@ g17:type_748 a skos:Concept ;
 
 g17:type_752 a skos:Concept ;
     rdfs:label "custom region"@en ;
-    skos:inScheme g17:type_1295,
-        g17:type_58 ;
+    skos:inScheme g17: ;
     skos:note "A specific area defined or customized for particular administrative, ecclesiastical, or geographical purposes, often tailored to local needs or historical boundaries."@en ;
     skos:prefLabel "custom region"@en ;
     skos:broader g17:type_58 ;
+    skos:broader g17:type_1295 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_753 a skos:Concept ;
     rdfs:label "custom sub-region"@en ;
-    skos:inScheme g17:type_1295,
-        g17:type_58 ;
+    skos:inScheme g17: ;
     skos:note "A smaller, specific division within a custom region, also defined according to particular administrative, geographical, or ecclesiastical requirements."@en ;
     skos:prefLabel "custom sub-region"@en ;
     skos:broader g17:type_58 ;
+    skos:broader g17:type_1295 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_77 a skos:Concept ;
